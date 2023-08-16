@@ -278,7 +278,7 @@ li {
     border-radius: 9px;
     font-family: 'Roboto';
     font-size: 10px;
-    font-weight: 400;
+    font-weight: 500;
     text-align: left;
 }
 
@@ -292,7 +292,7 @@ li {
 }
 
 .bottom-right-button-div img {
-    padding-top: 10%;
+    padding-top: 12%;
     padding-right: 19%;
     width: 1.5vw;
     height: 2vh;
